@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+body {
+  background-color: #fcf8e8;
+}
+
+h1 {
+  color: #df7861;
+  font-family: 'Dancing Script', cursive;
+
+}
+h3{
+  color:#df7861;
+  font-family: 'Dancing Script', cursive;
+}
+
+hr {
+
+  border-style:none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+}
